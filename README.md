@@ -7,3 +7,5 @@
 
 
 PostgreSQL слушает порт 5432!
+
+![image](https://github.com/kuroifreya/L3.1_PostgreSQL/assets/122697362/fe75303d-3aba-4b03-a082-9b8513184d07)
